@@ -4,3 +4,5 @@ Java is easy to learn
 I love Java
 We dont have destructors in Java.
 We have multiple Inheritance in Java.
+There is no Copy constructor in java.
+clone() is used to copy the content of one class to another using object communication.
