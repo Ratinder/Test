@@ -3,3 +3,4 @@ Java is oop language.
 Java is easy to learn
 I love Java
 We dont have destructors in Java.
+We have multiple Inheritance in Java.
